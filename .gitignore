@@ -1,0 +1,4 @@
+motor/
+SALIDAS/
+ENTRENAMIENTO/*.yaml
+__pycache__/
